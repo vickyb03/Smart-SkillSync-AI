@@ -44,11 +44,5 @@ An AI-based skill matching system that analyzes candidate skills and compares th
 
 ### Result Output
 ![Result](result.png)
-
----
-
-## 🔹 How to Run
-
-```bash
-pip install -r requirements.txt
+l -r requirements.txt
 python app.py
