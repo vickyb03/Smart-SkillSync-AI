@@ -1,26 +1,16 @@
-# SkillSync AI 🚀
+## 📸 Project Screenshots
 
-SkillSync AI is a machine learning-based system that matches candidate skills with job descriptions.
+### 🔐 Login Page
+![Login](login.png)
 
-## Features
-- TF-IDF vectorization
-- Cosine similarity matching
-- Flask API
+### 📊 Dashboard
+![Dashboard](dashboard.png)
 
-## Tech Stack
-- Python
-- Scikit-learn
-- Flask
+### 🧠 Skill Analysis
+![Analysis](analysis.png)
 
-## How to Run
-1. Install requirements
-2. Run app.py
-3. Test using Postman
+### ✅ Result Output
+![Result](result.png)
 
-## Example
-Input:
-Resume: Python Java SQL  
-Job: Python Developer  
-
-Output:
-Match Score: 80%
+### ⚙️ Backend Running
+![Backend](backend.png)
